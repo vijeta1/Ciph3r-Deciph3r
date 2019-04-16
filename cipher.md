@@ -30,3 +30,6 @@
 
 # Morse
 [Online Decoder](https://www.dcode.fr/morse-code)
+
+# rot-47
+[ONline Decoder](https://www.dcode.fr/rot-47-cipher)
